@@ -6,7 +6,7 @@
 
 1. Set up a conda environment for Roary (use conda or mamba)
 
-    - <https://sanger-pathogens.github.io/Roary>
+    <https://sanger-pathogens.github.io/Roary>
 
     ```bash
     conda create --name roary
