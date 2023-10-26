@@ -90,6 +90,7 @@ See the Panaroo **install** github page for detalied information on a conda inst
     <https://github.com/xavierdidelot/clonalframeml/wiki>
 
     ```bash
+    # Install conalframeml using conda (after setting up and activating the 'clonalframeml' environment)
     conda install -c conda-forge -c bioconda -c defaults clonalframeml
     newick_file="path/to/newick/file/from/panaroo"
     seq_file=directory/of/panaroo/alignment/file/core_gene_alignment.aln
